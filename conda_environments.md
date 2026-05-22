@@ -1,12 +1,12 @@
 # Conda Environment Registry
-*PetroLuminary — petroExploFlow*
+*PetroLuminary — petro-explo-flow*
 *Last updated: 2026-04-24*
 
 ---
 
 ## Active Environments
 
-### `petroExploFlow`
+### `petro-explo-flow`
 | Field | Value |
 |---|---|
 | **Status** | Active |
@@ -30,7 +30,7 @@
 **Create / activate:**
 ```bash
 conda env create -f environment.yml
-conda activate petroExploFlow
+conda activate petro-explo-flow
 ```
 
 ---
